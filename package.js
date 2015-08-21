@@ -1,7 +1,7 @@
 Package.describe({
   name: 'jspdf:core',
   summary: 'jsPDF (official): Generate PDF files on the client-side',
-  version: '1.1.135',
+  version: '1.0.272',
   git: 'https://github.com/MeteorPackaging/jspdf-core-wrapper.git'
 });
 
